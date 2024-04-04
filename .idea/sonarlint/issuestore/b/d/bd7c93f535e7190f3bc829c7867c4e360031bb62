@@ -1,0 +1,11 @@
+
+k
+java:S1104"PMake data a static final constant or non-public and provide accessors if needed.(–ú‚Áøÿÿÿÿ
+l
+java:S1104"VMake resultCode a static final constant or non-public and provide accessors if needed.(å»ò
+i
+java:S1104"SMake message a static final constant or non-public and provide accessors if needed.(ÕÃØ·
+i
+java:S1104""SMake success a static final constant or non-public and provide accessors if needed.(Ûå¨•
+A
+java:S1948"&Make "data" transient or serializable.(–ú‚Áøÿÿÿÿ

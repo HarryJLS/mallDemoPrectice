@@ -1,0 +1,13 @@
+
+9
+java:S1165"#Make this "resultCode" field final.(«£Ñû
+8
+java:S1165""Make this "errorData" field final.(»ºùî
+6
+java:S1165" Make this "subCode" field final.(òñ»‹
+2
+java:S1165"Make this "msg" field final.(­îøï
+B
+java:S1948",Make "resultCode" transient or serializable.(«£Ñû
+A
+java:S1948"+Make "errorData" transient or serializable.(»ºùî
